@@ -1,0 +1,12 @@
+<!-- data.xml -->
+<people>
+  <person>
+    <name>Copyright </name>
+    <date>2023</date>
+  </person>
+  <person>
+    <name>Immanuel Samuel</name>
+    <age>Group 11</age>
+    <name>ITGY 401</name>
+  </person>
+</people>
